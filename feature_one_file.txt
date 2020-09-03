@@ -1,0 +1,5 @@
+git status
+git add feature_one_file.txt
+git commit -m "Implement feature one."
+git pull origin feature_one
+git push origin feature_one
